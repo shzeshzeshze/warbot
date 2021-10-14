@@ -1,0 +1,3 @@
+# Warbot
+
+Information about wars.
